@@ -1,1 +1,1 @@
-# maya-ecomm
+package.json
